@@ -1,0 +1,13 @@
+Metadata-Version: 2.0
+Name: fdfgen
+Version: 0.16.1
+Summary: library for creating FDF files
+Home-page: http://github.com/ccnmtl/fdfgen/
+Author: Anders Pearson
+Author-email: anders@columbia.edu
+License: BSD
+Platform: any
+
+Python port of the PHP forge_fdf library for creating FDF files
+
+
